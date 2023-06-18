@@ -1,0 +1,15 @@
+{
+  "$schema": "file:///D:/mentalward24/mentalward24-dist/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "mentalward24 (Minecraft 1.16.5)",
+    "description": "mentalward24 Running Minecraft 1.16.5 (Forge v36.2.34)",
+    "address": "mentalward24.kro.kr",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}
