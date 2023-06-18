@@ -10,7 +10,7 @@
     {
       "id": "mentalward24-1.16.5",
       "name": "mentalward24 (Minecraft 1.16.5)",
-      "description": "mentalward24 Running Minecraft 1.16.5 (Forge v36.2.34)",
+      "description": "mentalward24 Running Minecraft 1.16.5 (Forge v36.2.35)",
       "icon": null,
       "version": "1.0.0",
       "address": "mentalward24.kro.kr",
@@ -19,47 +19,47 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.16.5-36.2.34",
+          "id": "net.minecraftforge:forge:1.16.5-36.2.35",
           "name": "Minecraft Forge (base jar)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 212608,
-            "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "size": 212572,
+            "MD5": "ec8b9d481dbb6637ddc45386596e6ff3",
+            "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.35/forge-1.16.5-36.2.35.jar"
           },
           "subModules": [
             {
-              "id": "1.16.5-36.2.34",
+              "id": "1.16.5-36.2.35",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 13577,
-                "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "MD5": "f7f59205bc395e8d3d1ca8afad93e15c",
+                "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/versions/1.16.5-forge-36.2.35/1.16.5-forge-36.2.35.json"
               }
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.34:universal",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.35:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 2773337,
-                "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "size": 2479557,
+                "MD5": "9c6a8f7733b0084faab9d01804f9678f",
+                "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.35/forge-1.16.5-36.2.35-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.16.5-36.2.34:client",
+              "id": "net.minecraftforge:forge:1.16.5-36.2.35:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": true,
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.35/forge-1.16.5-36.2.35-client.jar"
               },
               "subModules": []
             },
@@ -70,7 +70,7 @@
               "classpath": true,
               "artifact": {
                 "size": 11352644,
-                "MD5": "4dd5b3859a851619a8e36dbd22b3a510",
+                "MD5": "0d7f54bb03ea22bf4b07ecde4b5b7bdf",
                 "url": "https://github.com/Spotky1004P/mentalward24-dist/raw/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
